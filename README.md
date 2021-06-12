@@ -13,4 +13,3 @@ Aplicação que fará a automatização do meu login no github
 
 &nbsp;
 `pip install selelium` (usando o instalador do Python para instalar o módulo **selenium**
-&nbsp;
