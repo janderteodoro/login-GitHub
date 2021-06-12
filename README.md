@@ -1,7 +1,7 @@
 # login-GitHub
 Aplicação que fará a automatização do meu login no github
 ## Libs usadas
-- Selenium ( Melhor lib para realizar robotização )
+- Selenium ( Melhor lib para realizar robotização web )
 - time ( usei o método sleep para fazer pausas no decorrer no código )
 ## Como executar 
 `py -m venv venv` (criando um ambiente virtual com Python)
